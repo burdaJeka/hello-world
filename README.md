@@ -1,2 +1,2 @@
 # hello-world
-Hello my name is jeka
+Hello my name is Jeka
